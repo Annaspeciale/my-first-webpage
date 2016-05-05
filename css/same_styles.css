@@ -16,3 +16,12 @@ ul {
   font-size: 20px;
   line-height: 30px;
 }
+
+.important {
+color: green;
+text-align: center;
+}
+
+.unimportant {
+  color: red;
+}
