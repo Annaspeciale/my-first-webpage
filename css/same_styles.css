@@ -25,3 +25,9 @@ text-align: center;
 .unimportant {
   color: red;
 }
+
+.textbox {
+ border: 2px red solid;
+ padding: 4px;
+ margin: 6px;
+}
