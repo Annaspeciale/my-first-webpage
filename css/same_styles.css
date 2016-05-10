@@ -31,3 +31,8 @@ text-align: center;
  padding: 4px;
  margin: 6px;
 }
+
+.important p {
+  font-style: italic;
+  color: purple;
+}
